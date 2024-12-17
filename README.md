@@ -5,7 +5,6 @@ This repository contains a collection of Data Analysis and Visualization Project
 The repository aims to demonstrate how to approach real-world datasets and apply analytical techniques using Python, Power BI, and Tableau.                                                                                                                                                                              
 **Projects Included**
 **Exploratory Data Analysis on COVID-19 Datasets**
-
 Analyze trends in COVID-19 cases, recoveries, and fatalities.
 Explore the impact on different regions using visualizations.
 
