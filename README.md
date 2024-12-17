@@ -51,4 +51,3 @@ Loan Dataset Analysis: EDA to understand factors affecting loan approvals, inclu
 **Technologies Used**
 Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Visualization Tools: Power BI, Tableau
